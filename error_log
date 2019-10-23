@@ -1,0 +1,76 @@
+[07-Feb-2018 10:52:25 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(721): Illuminate\Container\Container->make('config', Array)
+#4 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/alarabia/public_html/tanks/vendor/laravel/framework/s in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[07-Feb-2018 10:53:29 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(721): Illuminate\Container\Container->make('config', Array)
+#4 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/alarabia/public_html/tanks/vendor/laravel/framework/s in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[07-Feb-2018 10:53:42 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(721): Illuminate\Container\Container->make('config', Array)
+#4 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/alarabia/public_html/tanks/vendor/laravel/framework/s in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[07-Feb-2018 10:55:06 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(721): Illuminate\Container\Container->make('config', Array)
+#4 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/alarabia/public_html/tanks/vendor/laravel/framework/s in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[07-Feb-2018 10:55:54 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(721): Illuminate\Container\Container->make('config', Array)
+#4 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/alarabia/public_html/tanks/vendor/laravel/framework/s in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[07-Feb-2018 10:56:09 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(721): Illuminate\Container\Container->make('config', Array)
+#4 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/alarabia/public_html/tanks/vendor/laravel/framework/s in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[07-Feb-2018 10:59:40 UTC] PHP Fatal error:  Uncaught ReflectionException: Class config does not exist in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('config')
+#1 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('config')
+#2 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('config', Array)
+#3 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(721): Illuminate\Container\Container->make('config', Array)
+#4 /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('config', Array)
+#5 /home/alarabia/public_html/tanks/vendor/laravel/framework/s in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[21-Jul-2018 12:12:06 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[21-Jul-2018 12:12:44 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[21-Jul-2018 12:13:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[21-Jul-2018 12:14:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[21-Jul-2018 12:15:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[21-Jul-2018 12:19:14 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[21-Jul-2018 12:33:08 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[21-Jul-2018 12:45:16 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[21-Jul-2018 12:48:04 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/alarabia/public_html/tanks/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 233
+[18-Nov-2018 11:16:41 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/alarabia/public_html/tanks/index.php on line 63
+[18-Nov-2018 11:16:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/alarabia/public_html/tanks/index.php on line 63
+[18-Nov-2018 11:16:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/alarabia/public_html/tanks/index.php on line 63
+[18-Nov-2018 11:16:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/alarabia/public_html/tanks/index.php on line 63
+[18-Nov-2018 11:50:32 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in phar:///usr/local/bin/composer/src/Composer/Json/JsonFile.php on line 270
+[18-Nov-2018 11:54:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in phar:///usr/local/bin/composer/src/Composer/Json/JsonFile.php on line 270
+[18-Nov-2018 11:55:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 88 bytes) in phar:///usr/local/bin/composer/src/Composer/Json/JsonFile.php on line 270
+[18-Nov-2018 11:55:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in phar:///usr/local/bin/composer/src/Composer/Json/JsonFile.php on line 270
+[18-Nov-2018 11:56:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in phar:///usr/local/bin/composer/src/Composer/Json/JsonFile.php on line 270
+[22-May-2019 00:29:51 UTC] PHP Warning:  require_once(/home/alarabia/public_html/tanks/public/index.php): failed to open stream: No such file or directory in /home/alarabia/public_html/tanks/server.php on line 21
+[22-May-2019 00:29:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/alarabia/public_html/tanks/public/index.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/alarabia/public_html/tanks/server.php on line 21
